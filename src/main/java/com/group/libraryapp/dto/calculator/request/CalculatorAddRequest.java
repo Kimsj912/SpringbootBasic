@@ -1,4 +1,4 @@
-package com.sujeongCompany.libraryapp.dto.calculator.request;
+package com.group.libraryapp.dto.calculator.request;
 
 public class CalculatorAddRequest {
 
